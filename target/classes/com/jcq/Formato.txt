@@ -1,0 +1,6 @@
+" espacio "Nombre de Personaje" espacio  "Expresión"  espacio "Texto" " " espacio "Nombre de Personaje" espacio  "Expresión"  espacio "Texto" " 
+
+
+Ej.
+
+" "JC" ":<" "Lean a Dale Carnegie" " " "MC" ":>" "Yeah tu si que sabes Jean" " " "JC" ":o" "Nunca nadie me había dicho algo tan bonito" "
